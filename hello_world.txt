@@ -3,7 +3,7 @@ Lorem ipsum dolor sit amet,
 consectetuer lopsided adipiscing elit.  
 commodo ligula eget dolor.  
 massa.  
-Cum sociis natoque penatibus et magnis dis parturient montes,  
+natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.  
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  
 Nulla consequat massa quis enim.  
