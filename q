@@ -1,0 +1,15 @@
+
+Revert"Added word in arbitrary position."
+
+This reverts commit e0a562f8f6028b17e654e16162406eb218e97f99.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   hello_world.txt
+#
+# Untracked files:
+#	Submission Files/
+#
